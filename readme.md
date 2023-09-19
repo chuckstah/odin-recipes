@@ -1,0 +1,1 @@
+This project will be a compilation of recipes that I find intriguing, delicious, or flat out fun. We will revisit this project and touch it up with CSS at a later time.
